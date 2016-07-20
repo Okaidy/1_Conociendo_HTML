@@ -1,0 +1,11 @@
+h1{
+	font-family: 'Indie Flower', cursive;
+}
+div>a>img{
+	height: 30px;
+}
+div{
+	position: absolute;
+	right: 10px;
+	top:15px;
+}
